@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2020-09-29T22:16:23+01:00
+lastmod: 2020-09-29T22:29:54+01:00
 featured: false
 draft: false
 
@@ -29,9 +29,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T21:16:22.320809Z'
+publishDate: '2020-09-29T21:29:53.917152Z'
 publication_types:
 - 4
 abstract: ''
-publication: ''
+publication: '*Minsterio de Economia y Finanzas*'
+url_pdf: www.midis.gob.pe
 ---

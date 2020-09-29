@@ -10,7 +10,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2020-09-29T22:16:24+01:00
+lastmod: 2020-09-29T22:29:53+01:00
 featured: false
 draft: false
 
@@ -28,11 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T21:16:24.038850Z'
+publishDate: '2020-09-29T21:29:52.320273Z'
 publication_types:
 - 4
 abstract: ''
 publication: ''
 url_pdf: http://www.grade.org.pe/forge/descargas/Informe final  Estudio Usos de la
   ECE  2.pdf
+doi: 10.1017/CBO9781107415324.004
 ---
