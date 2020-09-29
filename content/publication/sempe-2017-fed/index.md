@@ -1,16 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Evaluación del uso de informes de evaluación censal de estudiantes en la escuela
+title: Evaluación de diseño y procesos del Fondo de Estímulo al Desempeño y Logro
+  de Resultados Sociales (FED)
 subtitle: ''
 summary: ''
 authors:
 - Lucas Sempé
-- Patricia Andrade Pacora
+- David Solano
 tags: []
 categories: []
-date: -01-01
-lastmod: 2020-09-29T21:50:08+01:00
+date: '2017-01-01'
+lastmod: 2020-09-29T22:16:23+01:00
 featured: false
 draft: false
 
@@ -28,11 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T20:50:07.550711Z'
+publishDate: '2020-09-29T21:16:22.320809Z'
 publication_types:
 - 4
 abstract: ''
 publication: ''
-url_pdf: http://www.grade.org.pe/forge/descargas/Informe final  Estudio Usos de la
-  ECE  2.pdf
 ---

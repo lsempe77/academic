@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Balance de la implementación del mecanismo de financiamiento por desempeño\"Compromisos
-  de desempeño\" como impulsora de la mejora en la modernización de la gestión educativa
-  descentralizada
+title: Balance de la implementación del mecanismo de financiamiento por desempeño
+  `Compromisos de desempeño` como impulsora de la mejora en la modernización de la
+  gestión educativa descentralizada
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2020-09-29T21:50:07+01:00
+lastmod: 2020-09-29T22:16:23+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T20:50:06.371299Z'
+publishDate: '2020-09-29T21:16:23.144302Z'
 publication_types:
 - 4
 abstract: ''

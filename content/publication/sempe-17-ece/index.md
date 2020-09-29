@@ -1,21 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Diseño de un sistema de seguimiento de egresados y una estrategia para la implementación
-  de dicho sistema
+title: Evaluación del uso de informes de evaluación censal de estudiantes en la escuela
 subtitle: ''
 summary: ''
 authors:
-- Jorge Mori Valenzuela
 - Lucas Sempé
-- Raymundo Colquehuanca Achulli
-- Luis Guerrero Ortiz
 - Patricia Andrade Pacora
-- José Silva Martínez, José Gargurevich Valdéz
 tags: []
 categories: []
 date: '2017-01-01'
-lastmod: 2020-09-29T22:16:25+01:00
+lastmod: 2020-09-29T22:16:24+01:00
 featured: false
 draft: false
 
@@ -33,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T21:16:24.819733Z'
+publishDate: '2020-09-29T21:16:24.038850Z'
 publication_types:
 - 4
 abstract: ''
 publication: ''
-url_pdf: www.procalidad.gob.pe
+url_pdf: http://www.grade.org.pe/forge/descargas/Informe final  Estudio Usos de la
+  ECE  2.pdf
 ---

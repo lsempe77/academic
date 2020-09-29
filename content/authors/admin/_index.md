@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include multidisciplinary
 
 interests:
 - Human and Social Development
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD(c) International Development
-    institution: Stanford University
+    institution: University of East Anglia
     year: 2021
   - course: MSc Poverty Reduction - Policy and Practice
     institution: University of London (SOAS)

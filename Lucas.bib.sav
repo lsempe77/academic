@@ -13,35 +13,40 @@ url = {http://repositorio.minedu.gob.pe/bitstream/handle/MINEDU/6033/Balance de 
 volume = {13},
 year = {2015}
 }
-@techreport{Sempe2017,
-address = {Lima},
-author = {Semp{\'{e}}, Lucas and Solano, David},
-institution = {MIDIS / MEF},
-title = {{Evaluaci{\'{o}}n de dise{\~{n}}o y procesos del Fondo de Est{\'{i}}mulo al Desempe{\~{n}}o y Logro de Resultados Sociales (FED)}},
-year = {2017}
+
+@TechReport{Sempe2017FED,
+  author      = {Semp{\'{e}}, Lucas and Solano, David},
+  institution = {MIDIS / MEF},
+  title       = {{Evaluaci{\'{o}}n de dise{\~{n}}o y procesos del Fondo de Est{\'{i}}mulo al Desempe{\~{n}}o y Logro de Resultados Sociales (FED)}},
+  year        = {2017},
+  address     = {Lima},
 }
 
-@TechReport{Sempe17,
+@TechReport{Sempe17CD,
   author      = {Semp{\'{e}}, Lucas},
   institution = {GRADE},
-  title       = {{Balance de la implementaci{\'{o}}n del mecanismo de financiamiento por desempe{\~{n}}o Compromisos de desempe{\~{n}}o como impulsora de la mejora en la modernizaci{\'{o}}n de la gesti{\'{o}}n educativa descentralizada}},
+  title       = {{Balance de la implementaci{\'{o}}n del mecanismo de financiamiento por desempe{\~{n}}o `Compromisos de desempe{\~{n}}o` como impulsora de la mejora en la modernizaci{\'{o}}n de la gesti{\'{o}}n educativa descentralizada}},
   year        = {2017},
   address     = {Lima},
   file        = {:C$\backslash$:/Users/LUCAS/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/De, Por - Unknown - BALANCE DE LA IMPLEMENTACI{\'{O}}N DEL.pdf:pdf},
 }
-@techreport{Sempea,
-address = {Lima},
-author = {Semp{\'{e}}, Lucas and {Andrade Pacora}, Patricia},
-institution = {GRADE},
-title = {{Evaluaci{\'{o}}n del uso de informes de evaluaci{\'{o}}n censal de estudiantes en la escuela}},
-url = {http://www.grade.org.pe/forge/descargas/Informe final  Estudio Usos de la ECE  2.pdf}
+
+@TechReport{Sempe17ECE,
+  author      = {Semp{\'{e}}, Lucas and {Andrade Pacora}, Patricia},
+  institution = {GRADE},
+  title       = {{Evaluaci{\'{o}}n del uso de informes de evaluaci{\'{o}}n censal de estudiantes en la escuela}},
+  year        = {2017},
+  address     = {Lima},
+  url         = {http://www.grade.org.pe/forge/descargas/Informe final  Estudio Usos de la ECE  2.pdf},
 }
-@techreport{MoriValenzuela,
-author = {{Mori Valenzuela}, Jorge and Semp{\'{e}}, Lucas and {Colquehuanca Achulli}, Raymundo and {Guerrero Ortiz}, Luis and {Andrade Pacora}, Patricia and {Gargurevich Vald{\'{e}}z, Jos{\'{e}} Silva Mart{\'{i}}nez}, Jos{\'{e}}},
-file = {:C$\backslash$:/Users/LUCAS/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - Dise{\~{n}}o de un sistema de seguimiento de egresados y una estrategia para la implementaci{\'{o}}n de dicho sistema.pdf:pdf},
-isbn = {978-612-4386-09-1},
-title = {{Dise{\~{n}}o de un sistema de seguimiento de egresados y una estrategia para la implementaci{\'{o}}n de dicho sistema}},
-url = {www.procalidad.gob.pe}
+
+@TechReport{MoriValenzuela,
+  author = {{Mori Valenzuela}, Jorge and Semp{\'{e}}, Lucas and {Colquehuanca Achulli}, Raymundo and {Guerrero Ortiz}, Luis and {Andrade Pacora}, Patricia and {Gargurevich Vald{\'{e}}z, Jos{\'{e}} Silva Mart{\'{i}}nez}, Jos{\'{e}}},
+  title  = {{Dise{\~{n}}o de un sistema de seguimiento de egresados y una estrategia para la implementaci{\'{o}}n de dicho sistema}},
+  year   = {2017},
+  file   = {:C$\backslash$:/Users/LUCAS/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Unknown - Unknown - Dise{\~{n}}o de un sistema de seguimiento de egresados y una estrategia para la implementaci{\'{o}}n de dicho sistema.pdf:pdf},
+  isbn   = {978-612-4386-09-1},
+  url    = {www.procalidad.gob.pe},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
