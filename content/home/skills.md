@@ -32,7 +32,7 @@ subtitle = ""
   name = "Education"
   description = "10%"
 
-  [[feature]]
+[[feature]]
   icon = "hospital"
   icon_pack = "fas"
   name = "Health"
