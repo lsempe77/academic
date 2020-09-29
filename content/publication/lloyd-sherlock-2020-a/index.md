@@ -24,7 +24,7 @@ tags:
 - '"Intersectoral collaboration"'
 categories: []
 date: '2020-04-01'
-lastmod: 2020-09-29T22:29:57+01:00
+lastmod: 2020-09-29T22:36:05+01:00
 featured: false
 draft: false
 
@@ -42,7 +42,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T21:29:56.695777Z'
+publishDate: '2020-09-29T21:36:04.823799Z'
 publication_types:
 - 2
 abstract: 'Abstract: The increasing numbers of people at very old ages pose specific

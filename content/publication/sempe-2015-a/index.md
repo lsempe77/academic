@@ -18,7 +18,7 @@ tags:
 - '"Rural education."'
 categories: []
 date: '2015-01-01'
-lastmod: 2020-09-29T22:29:55+01:00
+lastmod: 2020-09-29T22:36:02+01:00
 featured: false
 draft: false
 
@@ -36,7 +36,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-29T21:29:54.541535Z'
+publishDate: '2020-09-29T21:36:01.286261Z'
 publication_types:
 - 2
 abstract: This research analyzes a learning coaching strategy called Acompanamiento
