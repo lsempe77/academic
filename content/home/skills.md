@@ -27,9 +27,15 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "chalkboard-teacher"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Education"
+  description = "10%"
+
+  [[feature]]
+  icon = "hospital"
+  icon_pack = "fas"
+  name = "Health"
   description = "10%"
 
 # Uncomment to use emoji icons.
