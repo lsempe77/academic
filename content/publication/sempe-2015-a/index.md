@@ -8,14 +8,9 @@ summary: ''
 authors:
 - Lucas Sempé
 tags:
-- '"Asesoría"'
-- '"Coaching"'
-- '"Educación rural."'
 - '"Learning coaching"'
-- '"Mentoring"'
-- '"Rendimiento basado en resultados"'
 - '"Result-based performance"'
-- '"Rural education."'
+- '"Rural education"'
 categories: []
 date: '2015-01-01'
 lastmod: 2020-09-29T22:36:02+01:00
