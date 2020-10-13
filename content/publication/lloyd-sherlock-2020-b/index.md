@@ -1,17 +1,23 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Balance de la implementación del mecanismo de financiamiento por desempeño
-  `Compromisos de desempeño` como impulsora de la mejora en la modernización de la
-  gestión educativa descentralizada
+title: Problems of Data Availability and Quality for COVID-19 and Older People in
+  Low- and Middle-Income Countries Peter
 subtitle: ''
 summary: ''
 authors:
-- Lucas Sempé
-tags: []
+- Peter Lloyd-Sherlock
+- Lucas Sempe
+- Martin Mckee
+- Aravinda Guntupalli
+tags:
+- '"Gerontologist2020"'
+- '"covid-19"'
+- '"developing countries"'
+- '"older adult"'
 categories: []
-date: '2017-01-01'
-lastmod: 2020-09-29T22:36:03+01:00
+date: '2020-01-01'
+lastmod: 2020-10-13T21:40:39+01:00
 featured: false
 draft: false
 
@@ -29,9 +35,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-13T20:41:43.669471Z'
+publishDate: '2020-10-13T20:41:41.109055Z'
 publication_types:
-- 4
+- 2
 abstract: ''
-publication: ''
+publication: '*The Gerontologist*'
+url_pdf: https://academic.oup.com/gerontologist/advance-article/doi/10.1093/geront/gnaa153/5918111
+doi: 10.1093/geront/gnaa153
 ---

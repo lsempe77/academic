@@ -22,8 +22,8 @@ bio: My research interests include multidisciplinary
 
 interests:
 - Human and Social Development
+- Social statistics
 - Research methods
-- Information Retrieval
 
 education:
   courses:
@@ -76,6 +76,13 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a social scientist with strong interests in social and human development with interests in Latin America. My previous experience includes working in civil society organisations and goverment. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My interdisciplinary background also 
+
+I've worked and researched across different rural development settings over different topics, such as housing and sanitation, disaster relief, education and health. I had the opportunity to work or do research in different Latin America countries such as Argentina, Brazil, Chile, Colombia, Ecuador, El Salvador, Mexico and Peru.
+
+My current research interests intersects policy, evidence-based practice and  
+
+
+I also been teaching for many years in Peru and in the United Kingdom. Last modules 
