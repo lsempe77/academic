@@ -22,8 +22,8 @@ bio: My research interests include multidisciplinary
 
 interests:
 - Human and Social Development
+- Education
 - Social statistics
-- Research methods
 
 education:
   courses:
